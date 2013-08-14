@@ -1,0 +1,6 @@
+puts "My favourite cities are:"
+puts "Singapore"
+puts "Reykjavik"
+puts "New York"
+puts "Melbourne"
+puts "Montreal"
